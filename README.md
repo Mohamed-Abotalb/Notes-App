@@ -5,7 +5,7 @@ Taking notes app
 As part of Kalbonyan Almarsos program and The Modern JavaScript Bootcamp by Andrew Mead, I've built a simple notes app, 
 a web app that can be used to create and save notes to help you never forget what to do.
 
-[The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/) on Udemy
+[The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/) on Udemy.
 
 ## **Tools**
 - HTML
