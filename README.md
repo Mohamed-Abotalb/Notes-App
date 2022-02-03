@@ -12,7 +12,7 @@ a web app that can be used to create and save notes to help you never forget wha
 - CSS
 - JavaScript / ES6
 
-# **Features**
+## **Features**
 - Create new note with title and body.
 - Edit your note.
 - Filter your notes.
